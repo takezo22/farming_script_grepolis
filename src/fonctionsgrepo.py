@@ -94,8 +94,17 @@ def collecte(duree_farm):
         reconnect()
 
 
+flag = True
+def init_commerce():
+    print("procédure d'initialisation en cours")
+
+
+
 def commerce():
-     pass
+    if flag:
+        init_commerce()
+    else:
+        pass
 
 
 # clic incorrect, à modifier

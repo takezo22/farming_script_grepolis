@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "pass": "",
+    "name": "fanatix",
+    "pass": "c3c13stunmdp",
     "server": "HESTIALIA",
     "path_to_driver": "/home/phileas/code/geckodriver"
 }

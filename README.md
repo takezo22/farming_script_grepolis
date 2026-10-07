@@ -25,14 +25,14 @@ pip install -r requirements.txt
 
 ## Using
 
-Enter your password and login in data.txt\
+Enter your password and login in data.txt
 
 By default the bot claims resources in all cities. If you don't want it to do so, put the corresponding cities' names in the non_farm_cities list in the file src/variables.py
 
 ### Run
 
 ```
-python run.py
+python src/run.py
 ```
 
 ## Contact
